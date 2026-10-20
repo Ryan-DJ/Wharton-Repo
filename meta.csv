@@ -1,0 +1,739 @@
+ticker,name,country,sector,currency,financial_currency
+A,A,United States,Health Care,USD,USD
+AAL,AAL,United States,Industrials,USD,USD
+AAP,AAP,United States,Consumer Cyclical,USD,USD
+AAPL,AAPL,United States,Information Technology,USD,USD
+ABBV,ABBV,United States,Health Care,USD,USD
+ABI,ABI,United States,Unknown,USD,USD
+ABNB,ABNB,United States,Consumer Discretionary,USD,USD
+ABT,ABT,United States,Health Care,USD,USD
+ABX,ABX,United States,Financial Services,USD,USD
+ACGL,ACGL,United States,Financials,USD,USD
+ACN,ACN,United States,Information Technology,USD,USD
+ACV,ACV,United States,Financial Services,USD,USD
+ADBE,ADBE,United States,Information Technology,USD,USD
+ADCT,ADCT,United States,Healthcare,USD,USD
+ADI,ADI,United States,Information Technology,USD,USD
+ADM,ADM,United States,Consumer Staples,USD,USD
+ADP,ADP,United States,Industrials,USD,USD
+ADSK,ADSK,United States,Information Technology,USD,USD
+ADT,ADT,United States,Industrials,USD,USD
+AEE,AEE,United States,Utilities,USD,USD
+AEP,AEP,United States,Utilities,USD,USD
+AES,AES,United States,Utilities,USD,USD
+AFL,AFL,United States,Financials,USD,USD
+AIG,AIG,United States,Financials,USD,USD
+AIT,AIT,United States,Industrials,USD,USD
+AIV,AIV,United States,Real Estate,USD,USD
+AIZ,AIZ,United States,Financials,USD,USD
+AJG,AJG,United States,Financials,USD,USD
+AKAM,AKAM,United States,Information Technology,USD,USD
+ALB,ALB,United States,Materials,USD,USD
+ALGN,ALGN,United States,Health Care,USD,USD
+ALK,ALK,United States,Industrials,USD,USD
+ALL,ALL,United States,Financials,USD,USD
+ALLE,ALLE,United States,Industrials,USD,USD
+AM,AM,United States,Energy,USD,USD
+AMAT,AMAT,United States,Information Technology,USD,USD
+AMCR,AMCR,United States,Materials,USD,USD
+AMD,AMD,United States,Information Technology,USD,USD
+AME,AME,United States,Industrials,USD,USD
+AMG,AMG,United States,Financial Services,USD,USD
+AMGN,AMGN,United States,Health Care,USD,USD
+AMH,AMH,United States,Real Estate,USD,USD
+AMP,AMP,United States,Financials,USD,USD
+AMT,AMT,United States,Real Estate,USD,USD
+AMTM,AMTM,United States,Industrials,USD,USD
+AMZN,AMZN,United States,Consumer Discretionary,USD,USD
+AN,AN,United States,Consumer Cyclical,USD,USD
+ANET,ANET,United States,Information Technology,USD,USD
+ANF,ANF,United States,Consumer Cyclical,USD,USD
+AON,AON,United States,Financials,USD,USD
+AOS,AOS,United States,Industrials,USD,USD
+APA,APA,United States,Energy,USD,USD
+APD,APD,United States,Materials,USD,USD
+APH,APH,United States,Information Technology,USD,USD
+APO,APO,United States,Financials,USD,USD
+APP,APP,United States,Communication Services,USD,USD
+APTV,APTV,United States,Consumer Discretionary,USD,USD
+AR,AR,United States,Energy,USD,USD
+ARE,ARE,United States,Real Estate,USD,USD
+ARES,ARES,United States,Financials,USD,USD
+AS,AS,United States,Consumer Cyclical,USD,USD
+ASC,ASC,United States,Industrials,USD,USD
+ASH,ASH,United States,Basic Materials,USD,USD
+ASND,ASND,United States,Healthcare,USD,USD
+ASO,ASO,United States,Consumer Cyclical,USD,USD
+ATI,ATI,United States,Industrials,USD,USD
+ATO,ATO,United States,Utilities,USD,USD
+AVGO,AVGO,United States,Information Technology,USD,USD
+AVY,AVY,United States,Materials,USD,USD
+AWK,AWK,United States,Utilities,USD,USD
+AXON,AXON,United States,Industrials,USD,USD
+AXP,AXP,United States,Financials,USD,USD
+AYI,AYI,United States,Industrials,USD,USD
+AZO,AZO,United States,Consumer Discretionary,USD,USD
+BA,BA,United States,Industrials,USD,USD
+BAC,BAC,United States,Financials,USD,USD
+BALL,BALL,United States,Materials,USD,USD
+BAX,BAX,United States,Health Care,USD,USD
+BBT,BBT,United States,Financial Services,USD,USD
+BBWI,BBWI,United States,Consumer Cyclical,USD,USD
+BBY,BBY,United States,Consumer Discretionary,USD,USD
+BC,BC,United States,Consumer Cyclical,USD,USD
+BCO,BCO,United States,Industrials,USD,USD
+BDX,BDX,United States,Health Care,USD,USD
+BEAM,BEAM,United States,Healthcare,USD,USD
+BEN,BEN,United States,Financials,USD,USD
+BF.B,BF.B,United States,Consumer Staples,USD,USD
+BG,BG,United States,Consumer Staples,USD,USD
+BHF,BHF,United States,Financial Services,USD,USD
+BIIB,BIIB,United States,Health Care,USD,USD
+BIO,BIO,United States,Healthcare,USD,USD
+BKNG,BKNG,United States,Consumer Discretionary,USD,USD
+BKR,BKR,United States,Energy,USD,USD
+BLDR,BLDR,United States,Industrials,USD,USD
+BLK,BLK,United States,Financials,USD,USD
+BMY,BMY,United States,Health Care,USD,USD
+BNL,BNL,United States,Real Estate,USD,USD
+BNY,BNY,United States,Financials,USD,USD
+BOAT,BOAT,United States,Unknown,USD,USD
+BR,BR,United States,Industrials,USD,USD
+BRK.B,BRK.B,United States,Financials,USD,USD
+BRO,BRO,United States,Financials,USD,USD
+BSX,BSX,United States,Health Care,USD,USD
+BUD,BUD,United States,Consumer Defensive,USD,USD
+BWA,BWA,United States,Consumer Cyclical,USD,USD
+BX,BX,United States,Financials,USD,USD
+BXP,BXP,United States,Real Estate,USD,USD
+C,C,United States,Financials,USD,USD
+CAG,CAG,United States,Consumer Defensive,USD,USD
+CAH,CAH,United States,Health Care,USD,USD
+CAL,CAL,United States,Consumer Cyclical,USD,USD
+CAM,CAM,United States,Unknown,USD,USD
+CAR,CAR,United States,Industrials,USD,USD
+CARR,CARR,United States,Industrials,USD,USD
+CASY,CASY,United States,Consumer Staples,USD,USD
+CAT,CAT,United States,Industrials,USD,USD
+CB,CB,United States,Financials,USD,USD
+CBOE,CBOE,United States,Financials,USD,USD
+CBRE,CBRE,United States,Real Estate,USD,USD
+CCB,CCB,United States,Financial Services,USD,USD
+CCEP,CCEP,United States,Consumer Defensive,USD,USD
+CCI,CCI,United States,Real Estate,USD,USD
+CCK,CCK,United States,Consumer Cyclical,USD,USD
+CCL,CCL,United States,Consumer Discretionary,USD,USD
+CCU,CCU,United States,Consumer Defensive,USD,USD
+CDNS,CDNS,United States,Information Technology,USD,USD
+CDW,CDW,United States,Information Technology,USD,USD
+CE,CE,United States,Basic Materials,USD,USD
+CEG,CEG,United States,Utilities,USD,USD
+CF,CF,United States,Materials,USD,USD
+CFG,CFG,United States,Financials,USD,USD
+CG,CG,United States,Financial Services,USD,USD
+CHA,CHA,United States,Consumer Cyclical,USD,USD
+CHD,CHD,United States,Consumer Staples,USD,USD
+CHRS,CHRS,United States,Healthcare,USD,USD
+CHRW,CHRW,United States,Industrials,USD,USD
+CHTR,CHTR,United States,Communication Services,USD,USD
+CI,CI,United States,Health Care,USD,USD
+CIEN,CIEN,United States,Information Technology,USD,USD
+CINF,CINF,United States,Financials,USD,USD
+CL,CL,United States,Consumer Staples,USD,USD
+CLF,CLF,United States,Basic Materials,USD,USD
+CLX,CLX,United States,Consumer Staples,USD,USD
+CMCSA,CMCSA,United States,Communication Services,USD,USD
+CME,CME,United States,Financials,USD,USD
+CMG,CMG,United States,Consumer Discretionary,USD,USD
+CMI,CMI,United States,Industrials,USD,USD
+CMS,CMS,United States,Utilities,USD,USD
+CNC,CNC,United States,Health Care,USD,USD
+CNP,CNP,United States,Utilities,USD,USD
+CNX,CNX,United States,Energy,USD,USD
+CNXT,CNXT,United States,Unknown,USD,USD
+COF,COF,United States,Financials,USD,USD
+COHR,COHR,United States,Information Technology,USD,USD
+COIN,COIN,United States,Financials,USD,USD
+COMS,COMS,United States,Technology,USD,USD
+COO,COO,United States,Health Care,USD,USD
+COP,COP,United States,Energy,USD,USD
+COR,COR,United States,Health Care,USD,USD
+COST,COST,United States,Consumer Staples,USD,USD
+COTY,COTY,United States,Consumer Defensive,USD,USD
+CPAY,CPAY,United States,Financials,USD,USD
+CPB,CPB,United States,Consumer Defensive,USD,USD
+CPRI,CPRI,United States,Consumer Cyclical,USD,USD
+CPRT,CPRT,United States,Industrials,USD,USD
+CPT,CPT,United States,Real Estate,USD,USD
+CPWR,CPWR,United States,Utilities,USD,USD
+CR,CR,United States,Industrials,USD,USD
+CRH,CRH,United States,Materials,USD,USD
+CRL,CRL,United States,Health Care,USD,USD
+CRM,CRM,United States,Information Technology,USD,USD
+CRWD,CRWD,United States,Information Technology,USD,USD
+CSCO,CSCO,United States,Information Technology,USD,USD
+CSGP,CSGP,United States,Real Estate,USD,USD
+CSR,CSR,United States,Real Estate,USD,USD
+CSX,CSX,United States,Industrials,USD,USD
+CTAS,CTAS,United States,Industrials,USD,USD
+CTSH,CTSH,United States,Information Technology,USD,USD
+CTVA,CTVA,United States,Materials,USD,USD
+CVNA,CVNA,United States,Consumer Discretionary,USD,USD
+CVS,CVS,United States,Health Care,USD,USD
+CVX,CVX,United States,Energy,USD,USD
+CZR,CZR,United States,Consumer Cyclical,USD,USD
+D,D,United States,Utilities,USD,USD
+DAL,DAL,United States,Industrials,USD,USD
+DASH,DASH,United States,Consumer Discretionary,USD,USD
+DD,DD,United States,Industrials,USD,USD
+DDOG,DDOG,United States,Information Technology,USD,USD
+DDS,DDS,United States,Consumer Cyclical,USD,USD
+DE,DE,United States,Industrials,USD,USD
+DEC,DEC,United States,Energy,USD,USD
+DECK,DECK,United States,Consumer Discretionary,USD,USD
+DELL,DELL,United States,Information Technology,USD,USD
+DG,DG,United States,Consumer Staples,USD,USD
+DGX,DGX,United States,Health Care,USD,USD
+DHI,DHI,United States,Consumer Discretionary,USD,USD
+DHR,DHR,United States,Health Care,USD,USD
+DIGI,DIGI,United States,Communication Services,USD,USD
+DIS,DIS,United States,Communication Services,USD,USD
+DLR,DLR,United States,Real Estate,USD,USD
+DLTR,DLTR,United States,Consumer Staples,USD,USD
+DLX,DLX,United States,Industrials,USD,USD
+DOC,DOC,United States,Real Estate,USD,USD
+DOV,DOV,United States,Industrials,USD,USD
+DOW,DOW,United States,Materials,USD,USD
+DPZ,DPZ,United States,Consumer Discretionary,USD,USD
+DRI,DRI,United States,Consumer Discretionary,USD,USD
+DTE,DTE,United States,Utilities,USD,USD
+DUK,DUK,United States,Utilities,USD,USD
+DVA,DVA,United States,Health Care,USD,USD
+DVN,DVN,United States,Energy,USD,USD
+DWD,DWD,United States,Unknown,USD,USD
+DXC,DXC,United States,Technology,USD,USD
+DXCM,DXCM,United States,Health Care,USD,USD
+DYN,DYN,United States,Healthcare,USD,USD
+EBAY,EBAY,United States,Consumer Discretionary,USD,USD
+EC,EC,United States,Energy,USD,USD
+ECH,ECH,United States,Unknown,USD,USD
+ECHO,ECHO,United States,Communication Services,USD,USD
+ECL,ECL,United States,Materials,USD,USD
+ECO,ECO,United States,Industrials,USD,USD
+ED,ED,United States,Utilities,USD,USD
+EFU,EFU,United States,Unknown,USD,USD
+EFX,EFX,United States,Industrials,USD,USD
+EG,EG,United States,Financials,USD,USD
+EHC,EHC,United States,Healthcare,USD,USD
+EIX,EIX,United States,Utilities,USD,USD
+EL,EL,United States,Consumer Staples,USD,USD
+ELV,ELV,United States,Health Care,USD,USD
+EMC,EMC,United States,Unknown,USD,USD
+EME,EME,United States,Industrials,USD,USD
+EMN,EMN,United States,Basic Materials,USD,USD
+EMR,EMR,United States,Industrials,USD,USD
+ENPH,ENPH,United States,Technology,USD,USD
+ENS,ENS,United States,Industrials,USD,USD
+EOG,EOG,United States,Energy,USD,USD
+EP,EP,United States,Energy,USD,USD
+EPAM,EPAM,United States,Technology,USD,USD
+EQ,EQ,United States,Healthcare,USD,USD
+EQIX,EQIX,United States,Real Estate,USD,USD
+EQT,EQT,United States,Energy,USD,USD
+ERIE,ERIE,United States,Financials,USD,USD
+ES,ES,United States,Utilities,USD,USD
+ESS,ESS,United States,Real Estate,USD,USD
+ETN,ETN,United States,Industrials,USD,USD
+ETR,ETR,United States,Utilities,USD,USD
+ETS,ETS,United States,Industrials,USD,USD
+ETSY,ETSY,United States,Consumer Cyclical,USD,USD
+EVRG,EVRG,United States,Utilities,USD,USD
+EW,EW,United States,Health Care,USD,USD
+EXC,EXC,United States,Utilities,USD,USD
+EXE,EXE,United States,Energy,USD,USD
+EXPD,EXPD,United States,Industrials,USD,USD
+EXPE,EXPE,United States,Consumer Discretionary,USD,USD
+EXR,EXR,United States,Real Estate,USD,USD
+F,F,United States,Consumer Discretionary,USD,USD
+FANG,FANG,United States,Energy,USD,USD
+FAST,FAST,United States,Industrials,USD,USD
+FB,FB,United States,Unknown,USD,USD
+FCN,FCN,United States,Industrials,USD,USD
+FCPT,FCPT,United States,Real Estate,USD,USD
+FCX,FCX,United States,Materials,USD,USD
+FDS,FDS,United States,Financials,USD,USD
+FDX,FDX,United States,Industrials,USD,USD
+FE,FE,United States,Utilities,USD,USD
+FERG,FERG,United States,Industrials,USD,USD
+FFIV,FFIV,United States,Information Technology,USD,USD
+FG,FG,United States,Financial Services,USD,USD
+FHN,FHN,United States,Financial Services,USD,USD
+FICO,FICO,United States,Information Technology,USD,USD
+FIS,FIS,United States,Financials,USD,USD
+FISV,FISV,United States,Financials,USD,USD
+FITB,FITB,United States,Financials,USD,USD
+FIX,FIX,United States,Industrials,USD,USD
+FLEX,FLEX,United States,Information Technology,USD,USD
+FLR,FLR,United States,Industrials,USD,USD
+FLS,FLS,United States,Industrials,USD,USD
+FMC,FMC,United States,Basic Materials,USD,USD
+FMCC,FMCC,United States,Financial Services,USD,USD
+FMY,FMY,United States,Financial Services,USD,USD
+FNMA,FNMA,United States,Financial Services,USD,USD
+FOSL,FOSL,United States,Consumer Cyclical,USD,USD
+FOX,FOX,United States,Communication Services,USD,USD
+FOXA,FOXA,United States,Communication Services,USD,USD
+FRO,FRO,United States,Energy,USD,USD
+FRT,FRT,United States,Real Estate,USD,USD
+FSLR,FSLR,United States,Information Technology,USD,USD
+FTI,FTI,United States,Energy,USD,USD
+FTNT,FTNT,United States,Information Technology,USD,USD
+FTV,FTV,United States,Industrials,USD,USD
+G,G,United States,Technology,USD,USD
+GD,GD,United States,Industrials,USD,USD
+GDDY,GDDY,United States,Information Technology,USD,USD
+GE,GE,United States,Industrials,USD,USD
+GEHC,GEHC,United States,Health Care,USD,USD
+GEN,GEN,United States,Information Technology,USD,USD
+GENZ,GENZ,United States,Unknown,USD,USD
+GEV,GEV,United States,Industrials,USD,USD
+GHC,GHC,United States,Industrials,USD,USD
+GILD,GILD,United States,Health Care,USD,USD
+GIS,GIS,United States,Consumer Staples,USD,USD
+GL,GL,United States,Financials,USD,USD
+GLD,GLD,United States,Unknown,USD,USD
+GLW,GLW,United States,Information Technology,USD,USD
+GM,GM,United States,Consumer Discretionary,USD,USD
+GME,GME,United States,Consumer Cyclical,USD,USD
+GNRC,GNRC,United States,Industrials,USD,USD
+GNT,GNT,United States,Financial Services,USD,USD
+GNW,GNW,United States,Financial Services,USD,USD
+GOOG,GOOG,United States,Communication Services,USD,USD
+GOOGL,GOOGL,United States,Communication Services,USD,USD
+GP,GP,United States,Industrials,USD,USD
+GPC,GPC,United States,Consumer Discretionary,USD,USD
+GPN,GPN,United States,Financials,USD,USD
+GR,GR,United States,Unknown,USD,USD
+GRMN,GRMN,United States,Consumer Discretionary,USD,USD
+GRN,GRN,United States,Unknown,USD,USD
+GS,GS,United States,Financials,USD,USD
+GT,GT,United States,Consumer Cyclical,USD,USD
+GTE,GTE,United States,Energy,USD,USD
+GWW,GWW,United States,Industrials,USD,USD
+H,H,United States,Consumer Cyclical,USD,USD
+HAL,HAL,United States,Energy,USD,USD
+HAS,HAS,United States,Consumer Discretionary,USD,USD
+HBAN,HBAN,United States,Financials,USD,USD
+HCA,HCA,United States,Health Care,USD,USD
+HD,HD,United States,Consumer Discretionary,USD,USD
+HIG,HIG,United States,Financials,USD,USD
+HII,HII,United States,Industrials,USD,USD
+HLT,HLT,United States,Consumer Discretionary,USD,USD
+HOG,HOG,United States,Consumer Cyclical,USD,USD
+HON,HON,United States,Industrials,USD,USD
+HOOD,HOOD,United States,Financials,USD,USD
+HP,HP,United States,Energy,USD,USD
+HPE,HPE,United States,Information Technology,USD,USD
+HPQ,HPQ,United States,Information Technology,USD,USD
+HRB,HRB,United States,Consumer Cyclical,USD,USD
+HRL,HRL,United States,Consumer Staples,USD,USD
+HSIC,HSIC,United States,Health Care,USD,USD
+HST,HST,United States,Real Estate,USD,USD
+HSY,HSY,United States,Consumer Staples,USD,USD
+HUBB,HUBB,United States,Industrials,USD,USD
+HUM,HUM,United States,Health Care,USD,USD
+HWM,HWM,United States,Industrials,USD,USD
+IBKR,IBKR,United States,Financials,USD,USD
+IBM,IBM,United States,Information Technology,USD,USD
+ICE,ICE,United States,Financials,USD,USD
+IDXX,IDXX,United States,Health Care,USD,USD
+IEX,IEX,United States,Industrials,USD,USD
+IFF,IFF,United States,Materials,USD,USD
+ILMN,ILMN,United States,Healthcare,USD,USD
+INCY,INCY,United States,Health Care,USD,USD
+INFO,INFO,United States,Unknown,USD,USD
+INGR,INGR,United States,Consumer Defensive,USD,USD
+INTC,INTC,United States,Information Technology,USD,USD
+INTU,INTU,United States,Information Technology,USD,USD
+INVH,INVH,United States,Real Estate,USD,USD
+IP,IP,United States,Materials,USD,USD
+IPGP,IPGP,United States,Technology,USD,USD
+IQV,IQV,United States,Health Care,USD,USD
+IR,IR,United States,Industrials,USD,USD
+IRM,IRM,United States,Real Estate,USD,USD
+ISRG,ISRG,United States,Health Care,USD,USD
+IT,IT,United States,Information Technology,USD,USD
+ITT,ITT,United States,Industrials,USD,USD
+ITW,ITW,United States,Industrials,USD,USD
+IVZ,IVZ,United States,Financials,USD,USD
+J,J,United States,Industrials,USD,USD
+JAVA,JAVA,United States,Unknown,USD,USD
+JBHT,JBHT,United States,Industrials,USD,USD
+JBL,JBL,United States,Information Technology,USD,USD
+JCI,JCI,United States,Industrials,USD,USD
+JEF,JEF,United States,Financial Services,USD,USD
+JKHY,JKHY,United States,Financials,USD,USD
+JNJ,JNJ,United States,Health Care,USD,USD
+JPM,JPM,United States,Financials,USD,USD
+KBH,KBH,United States,Consumer Cyclical,USD,USD
+KDP,KDP,United States,Consumer Staples,USD,USD
+KEY,KEY,United States,Financials,USD,USD
+KEYS,KEYS,United States,Information Technology,USD,USD
+KG,KG,United States,Financial Services,USD,USD
+KHC,KHC,United States,Consumer Staples,USD,USD
+KIM,KIM,United States,Real Estate,USD,USD
+KKR,KKR,United States,Financials,USD,USD
+KLAC,KLAC,United States,Information Technology,USD,USD
+KMB,KMB,United States,Consumer Staples,USD,USD
+KMI,KMI,United States,Energy,USD,USD
+KMX,KMX,United States,Consumer Cyclical,USD,USD
+KO,KO,United States,Consumer Staples,USD,USD
+KR,KR,United States,Consumer Staples,USD,USD
+KSS,KSS,United States,Consumer Cyclical,USD,USD
+KVUE,KVUE,United States,Consumer Staples,USD,USD
+L,L,United States,Financials,USD,USD
+LB,LB,United States,Energy,USD,USD
+LDOS,LDOS,United States,Industrials,USD,USD
+LEN,LEN,United States,Consumer Discretionary,USD,USD
+LH,LH,United States,Health Care,USD,USD
+LHX,LHX,United States,Industrials,USD,USD
+LII,LII,United States,Industrials,USD,USD
+LIN,LIN,United States,Materials,USD,USD
+LITE,LITE,United States,Information Technology,USD,USD
+LKQ,LKQ,United States,Consumer Cyclical,USD,USD
+LLY,LLY,United States,Health Care,USD,USD
+LMT,LMT,United States,Industrials,USD,USD
+LNC,LNC,United States,Financial Services,USD,USD
+LNT,LNT,United States,Utilities,USD,USD
+LOW,LOW,United States,Consumer Discretionary,USD,USD
+LPX,LPX,United States,Industrials,USD,USD
+LRCX,LRCX,United States,Information Technology,USD,USD
+LU,LU,United States,Financial Services,USD,USD
+LULU,LULU,United States,Consumer Discretionary,USD,USD
+LUMN,LUMN,United States,Communication Services,USD,USD
+LUV,LUV,United States,Industrials,USD,USD
+LVS,LVS,United States,Consumer Discretionary,USD,USD
+LW,LW,United States,Consumer Defensive,USD,USD
+LYB,LYB,United States,Materials,USD,USD
+LYV,LYV,United States,Communication Services,USD,USD
+M,M,United States,Consumer Cyclical,USD,USD
+MA,MA,United States,Financials,USD,USD
+MAA,MAA,United States,Real Estate,USD,USD
+MAC,MAC,United States,Real Estate,USD,USD
+MAR,MAR,United States,Consumer Discretionary,USD,USD
+MAS,MAS,United States,Industrials,USD,USD
+MAT,MAT,United States,Consumer Cyclical,USD,USD
+MBI,MBI,United States,Financial Services,USD,USD
+MCD,MCD,United States,Consumer Discretionary,USD,USD
+MCHP,MCHP,United States,Information Technology,USD,USD
+MCIC,MCIC,United States,Healthcare,USD,USD
+MCK,MCK,United States,Health Care,USD,USD
+MCO,MCO,United States,Financials,USD,USD
+MD,MD,United States,Healthcare,USD,USD
+MDLZ,MDLZ,United States,Consumer Staples,USD,USD
+MDT,MDT,United States,Health Care,USD,USD
+MEDI,MEDI,United States,Unknown,USD,USD
+MET,MET,United States,Financials,USD,USD
+META,META,United States,Communication Services,USD,USD
+MGM,MGM,United States,Consumer Discretionary,USD,USD
+MHK,MHK,United States,Consumer Cyclical,USD,USD
+MI,MI,United States,Consumer Cyclical,USD,USD
+MIR,MIR,United States,Industrials,USD,USD
+MKC,MKC,United States,Consumer Staples,USD,USD
+MKTX,MKTX,United States,Financial Services,USD,USD
+MLM,MLM,United States,Materials,USD,USD
+MMI,MMI,United States,Real Estate,USD,USD
+MMM,MMM,United States,Industrials,USD,USD
+MNR,MNR,United States,Energy,USD,USD
+MNST,MNST,United States,Consumer Staples,USD,USD
+MO,MO,United States,Consumer Staples,USD,USD
+MOB,MOB,United States,Industrials,USD,USD
+MOH,MOH,United States,Healthcare,USD,USD
+MOS,MOS,United States,Materials,USD,USD
+MPC,MPC,United States,Energy,USD,USD
+MPWR,MPWR,United States,Information Technology,USD,USD
+MRK,MRK,United States,Health Care,USD,USD
+MRNA,MRNA,United States,Health Care,USD,USD
+MRSH,MRSH,United States,Financials,USD,USD
+MRVL,MRVL,United States,Information Technology,USD,USD
+MS,MS,United States,Financials,USD,USD
+MSCI,MSCI,United States,Financials,USD,USD
+MSFT,MSFT,United States,Information Technology,USD,USD
+MSI,MSI,United States,Information Technology,USD,USD
+MST,MST,United States,Unknown,USD,USD
+MTB,MTB,United States,Financials,USD,USD
+MTCH,MTCH,United States,Communication Services,USD,USD
+MTD,MTD,United States,Health Care,USD,USD
+MTG,MTG,United States,Financial Services,USD,USD
+MTW,MTW,United States,Industrials,USD,USD
+MU,MU,United States,Information Technology,USD,USD
+MUR,MUR,United States,Energy,USD,USD
+NAVI,NAVI,United States,Financial Services,USD,USD
+NBR,NBR,United States,Energy,USD,USD
+NC,NC,United States,Energy,USD,USD
+NCLH,NCLH,United States,Consumer Discretionary,USD,USD
+NDAQ,NDAQ,United States,Financials,USD,USD
+NDSN,NDSN,United States,Industrials,USD,USD
+NE,NE,United States,Energy,USD,USD
+NEE,NEE,United States,Utilities,USD,USD
+NEM,NEM,United States,Materials,USD,USD
+NFLX,NFLX,United States,Communication Services,USD,USD
+NI,NI,United States,Utilities,USD,USD
+NKE,NKE,United States,Consumer Discretionary,USD,USD
+NKTR,NKTR,United States,Healthcare,USD,USD
+NLV,NLV,United States,Unknown,USD,USD
+NOC,NOC,United States,Industrials,USD,USD
+NOV,NOV,United States,Energy,USD,USD
+NOW,NOW,United States,Information Technology,USD,USD
+NRG,NRG,United States,Utilities,USD,USD
+NSC,NSC,United States,Industrials,USD,USD
+NSI,NSI,United States,Unknown,USD,USD
+NTAP,NTAP,United States,Information Technology,USD,USD
+NTRS,NTRS,United States,Financials,USD,USD
+NUE,NUE,United States,Materials,USD,USD
+NVDA,NVDA,United States,Information Technology,USD,USD
+NVR,NVR,United States,Consumer Discretionary,USD,USD
+NWL,NWL,United States,Consumer Defensive,USD,USD
+NWS,NWS,United States,Communication Services,USD,USD
+NWSA,NWSA,United States,Communication Services,USD,USD
+NXPI,NXPI,United States,Information Technology,USD,USD
+NYT,NYT,United States,Communication Services,USD,USD
+O,O,United States,Real Estate,USD,USD
+ODFL,ODFL,United States,Industrials,USD,USD
+OGN,OGN,United States,Healthcare,USD,USD
+OI,OI,United States,Consumer Cyclical,USD,USD
+OKE,OKE,United States,Energy,USD,USD
+OM,OM,United States,Healthcare,USD,USD
+OMC,OMC,United States,Communication Services,USD,USD
+ON,ON,United States,Information Technology,USD,USD
+ORCL,ORCL,United States,Information Technology,USD,USD
+ORLY,ORLY,United States,Consumer Discretionary,USD,USD
+OTIS,OTIS,United States,Industrials,USD,USD
+OXY,OXY,United States,Energy,USD,USD
+PAC,PAC,United States,Industrials,USD,USD
+PANW,PANW,United States,Information Technology,USD,USD
+PARA,PARA,United States,Technology,USD,USD
+PAYC,PAYC,United States,Technology,USD,USD
+PAYX,PAYX,United States,Industrials,USD,USD
+PBI,PBI,United States,Industrials,USD,USD
+PCAR,PCAR,United States,Industrials,USD,USD
+PCG,PCG,United States,Utilities,USD,USD
+PCL,PCL,United States,Unknown,USD,USD
+PCS,PCS,United States,Unknown,USD,USD
+PD,PD,United States,Technology,USD,USD
+PEG,PEG,United States,Utilities,USD,USD
+PENN,PENN,United States,Consumer Cyclical,USD,USD
+PEP,PEP,United States,Consumer Staples,USD,USD
+PFE,PFE,United States,Health Care,USD,USD
+PFG,PFG,United States,Financials,USD,USD
+PG,PG,United States,Consumer Staples,USD,USD
+PGR,PGR,United States,Financials,USD,USD
+PH,PH,United States,Industrials,USD,USD
+PHM,PHM,United States,Consumer Discretionary,USD,USD
+PKG,PKG,United States,Materials,USD,USD
+PLD,PLD,United States,Real Estate,USD,USD
+PLTR,PLTR,United States,Information Technology,USD,USD
+PM,PM,United States,Consumer Staples,USD,USD
+PMI,PMI,United States,Healthcare,USD,USD
+PNC,PNC,United States,Financials,USD,USD
+PNR,PNR,United States,Industrials,USD,USD
+PNW,PNW,United States,Utilities,USD,USD
+PODD,PODD,United States,Health Care,USD,USD
+POM,POM,United States,Healthcare,USD,USD
+POOL,POOL,United States,Industrials,USD,USD
+PPG,PPG,United States,Materials,USD,USD
+PPL,PPL,United States,Utilities,USD,USD
+PRGO,PRGO,United States,Healthcare,USD,USD
+PRU,PRU,United States,Financials,USD,USD
+PSA,PSA,United States,Real Estate,USD,USD
+PSX,PSX,United States,Energy,USD,USD
+PTC,PTC,United States,Information Technology,USD,USD
+PVH,PVH,United States,Consumer Cyclical,USD,USD
+PWER,PWER,United States,Unknown,USD,USD
+PWR,PWR,United States,Industrials,USD,USD
+PYPL,PYPL,United States,Financials,USD,USD
+Q,Q,United States,Information Technology,USD,USD
+QCOM,QCOM,United States,Information Technology,USD,USD
+R,R,United States,Industrials,USD,USD
+RAL,RAL,United States,Technology,USD,USD
+RCL,RCL,United States,Consumer Discretionary,USD,USD
+RDDT,RDDT,United States,Communication Services,USD,USD
+REG,REG,United States,Real Estate,USD,USD
+REGN,REGN,United States,Health Care,USD,USD
+RF,RF,United States,Financials,USD,USD
+RHI,RHI,United States,Industrials,USD,USD
+RIG,RIG,United States,Energy,USD,USD
+RJF,RJF,United States,Financials,USD,USD
+RL,RL,United States,Consumer Discretionary,USD,USD
+RMD,RMD,United States,Health Care,USD,USD
+ROK,ROK,United States,Industrials,USD,USD
+ROL,ROL,United States,Industrials,USD,USD
+ROP,ROP,United States,Information Technology,USD,USD
+ROST,ROST,United States,Consumer Discretionary,USD,USD
+RRC,RRC,United States,Energy,USD,USD
+RSG,RSG,United States,Industrials,USD,USD
+RTX,RTX,United States,Industrials,USD,USD
+RVTY,RVTY,United States,Health Care,USD,USD
+RYAN,RYAN,United States,Financial Services,USD,USD
+S,S,United States,Technology,USD,USD
+SANM,SANM,United States,Technology,USD,USD
+SB,SB,United States,Industrials,USD,USD
+SBAC,SBAC,United States,Real Estate,USD,USD
+SBNY,SBNY,United States,Financial Services,USD,USD
+SBUX,SBUX,United States,Consumer Discretionary,USD,USD
+SCHW,SCHW,United States,Financials,USD,USD
+SCI,SCI,United States,Consumer Cyclical,USD,USD
+SDS,SDS,United States,Unknown,USD,USD
+SE,SE,United States,Consumer Cyclical,USD,USD
+SEDG,SEDG,United States,Technology,USD,USD
+SEG,SEG,United States,Real Estate,USD,USD
+SHLD,SHLD,United States,Unknown,USD,USD
+SHW,SHW,United States,Materials,USD,USD
+SIG,SIG,United States,Consumer Cyclical,USD,USD
+SII,SII,United States,Financial Services,USD,USD
+SJM,SJM,United States,Consumer Staples,USD,USD
+SLB,SLB,United States,Energy,USD,USD
+SLG,SLG,United States,Real Estate,USD,USD
+SLM,SLM,United States,Financial Services,USD,USD
+SMCI,SMCI,United States,Information Technology,USD,USD
+SNA,SNA,United States,Industrials,USD,USD
+SNDK,SNDK,United States,Information Technology,USD,USD
+SNPS,SNPS,United States,Information Technology,USD,USD
+SNT,SNT,United States,Industrials,USD,USD
+SO,SO,United States,Utilities,USD,USD
+SOLS,SOLS,United States,Basic Materials,USD,USD
+SOLV,SOLV,United States,Health Care,USD,USD
+SPG,SPG,United States,Real Estate,USD,USD
+SPGI,SPGI,United States,Financials,USD,USD
+SRE,SRE,United States,Utilities,USD,USD
+SSP,SSP,United States,Communication Services,USD,USD
+STE,STE,United States,Health Care,USD,USD
+STI,STI,United States,Industrials,USD,USD
+STLD,STLD,United States,Materials,USD,USD
+STT,STT,United States,Financials,USD,USD
+STX,STX,United States,Information Technology,USD,USD
+STZ,STZ,United States,Consumer Staples,USD,USD
+SUB,SUB,United States,Unknown,USD,USD
+SUN,SUN,United States,Energy,USD,USD
+SW,SW,United States,Materials,USD,USD
+SWK,SWK,United States,Industrials,USD,USD
+SWKS,SWKS,United States,Information Technology,USD,USD
+SYF,SYF,United States,Financials,USD,USD
+SYK,SYK,United States,Health Care,USD,USD
+SYY,SYY,United States,Consumer Staples,USD,USD
+T,T,United States,Communication Services,USD,USD
+TAP,TAP,United States,Consumer Staples,USD,USD
+TDC,TDC,United States,Technology,USD,USD
+TDG,TDG,United States,Industrials,USD,USD
+TDM,TDM,United States,Unknown,USD,USD
+TDY,TDY,United States,Information Technology,USD,USD
+TE,TE,United States,Industrials,USD,USD
+TECH,TECH,United States,Health Care,USD,USD
+TEK,TEK,United States,Unknown,USD,USD
+TEL,TEL,United States,Information Technology,USD,USD
+TEN,TEN,United States,Energy,USD,USD
+TER,TER,United States,Information Technology,USD,USD
+TEX,TEX,United States,Industrials,USD,USD
+TFC,TFC,United States,Financials,USD,USD
+TFX,TFX,United States,Healthcare,USD,USD
+TGT,TGT,United States,Consumer Staples,USD,USD
+THC,THC,United States,Healthcare,USD,USD
+THY,THY,United States,Unknown,USD,USD
+TJX,TJX,United States,Consumer Discretionary,USD,USD
+TKO,TKO,United States,Communication Services,USD,USD
+TKR,TKR,United States,Industrials,USD,USD
+TMC,TMC,United States,Basic Materials,USD,USD
+TMO,TMO,United States,Health Care,USD,USD
+TMUS,TMUS,United States,Communication Services,USD,USD
+TPL,TPL,United States,Energy,USD,USD
+TPR,TPR,United States,Consumer Discretionary,USD,USD
+TRGP,TRGP,United States,Energy,USD,USD
+TRIP,TRIP,United States,Consumer Cyclical,USD,USD
+TRMB,TRMB,United States,Information Technology,USD,USD
+TROW,TROW,United States,Financials,USD,USD
+TRV,TRV,United States,Financials,USD,USD
+TSCO,TSCO,United States,Consumer Discretionary,USD,USD
+TSLA,TSLA,United States,Consumer Discretionary,USD,USD
+TSN,TSN,United States,Consumer Staples,USD,USD
+TT,TT,United States,Industrials,USD,USD
+TTD,TTD,United States,Communication Services,USD,USD
+TTWO,TTWO,United States,Communication Services,USD,USD
+TX,TX,United States,Basic Materials,USD,USD
+TXN,TXN,United States,Information Technology,USD,USD
+TXT,TXT,United States,Industrials,USD,USD
+TYL,TYL,United States,Information Technology,USD,USD
+UA,UA,United States,Consumer Cyclical,USD,USD
+UAA,UAA,United States,Consumer Cyclical,USD,USD
+UAL,UAL,United States,Industrials,USD,USD
+UBER,UBER,United States,Industrials,USD,USD
+UCC,UCC,United States,Unknown,USD,USD
+UCL,UCL,United States,Communication Services,USD,USD
+UDR,UDR,United States,Real Estate,USD,USD
+UHS,UHS,United States,Health Care,USD,USD
+UIS,UIS,United States,Technology,USD,USD
+UK,UK,United States,Real Estate,USD,USD
+ULTA,ULTA,United States,Consumer Discretionary,USD,USD
+UNH,UNH,United States,Health Care,USD,USD
+UNM,UNM,United States,Financial Services,USD,USD
+UNP,UNP,United States,Industrials,USD,USD
+UPC,UPC,United States,Healthcare,USD,USD
+UPS,UPS,United States,Industrials,USD,USD
+URBN,URBN,United States,Consumer Cyclical,USD,USD
+URI,URI,United States,Industrials,USD,USD
+USB,USB,United States,Financials,USD,USD
+USBC,USBC,United States,Technology,USD,USD
+UST,UST,United States,Unknown,USD,USD
+V,V,United States,Financials,USD,USD
+VEEV,VEEV,United States,Health Care,USD,USD
+VFC,VFC,United States,Consumer Cyclical,USD,USD
+VIAV,VIAV,United States,Technology,USD,USD
+VICI,VICI,United States,Real Estate,USD,USD
+VLO,VLO,United States,Energy,USD,USD
+VLTO,VLTO,United States,Industrials,USD,USD
+VMC,VMC,United States,Materials,USD,USD
+VMRK,VMRK,United States,Real Estate,USD,USD
+VNO,VNO,United States,Real Estate,USD,USD
+VNT,VNT,United States,Technology,USD,USD
+VO,VO,United States,Unknown,USD,USD
+VRSK,VRSK,United States,Industrials,USD,USD
+VRSN,VRSN,United States,Information Technology,USD,USD
+VRT,VRT,United States,Industrials,USD,USD
+VRTS,VRTS,United States,Financial Services,USD,USD
+VRTX,VRTX,United States,Health Care,USD,USD
+VST,VST,United States,Utilities,USD,USD
+VTR,VTR,United States,Real Estate,USD,USD
+VTRS,VTRS,United States,Health Care,USD,USD
+VZ,VZ,United States,Communication Services,USD,USD
+WAB,WAB,United States,Industrials,USD,USD
+WAT,WAT,United States,Health Care,USD,USD
+WB,WB,United States,Communication Services,USD,USD
+WDAY,WDAY,United States,Information Technology,USD,USD
+WDC,WDC,United States,Information Technology,USD,USD
+WEC,WEC,United States,Utilities,USD,USD
+WELL,WELL,United States,Real Estate,USD,USD
+WEN,WEN,United States,Consumer Cyclical,USD,USD
+WFC,WFC,United States,Financials,USD,USD
+WHR,WHR,United States,Consumer Cyclical,USD,USD
+WM,WM,United States,Industrials,USD,USD
+WMB,WMB,United States,Energy,USD,USD
+WMT,WMT,United States,Consumer Staples,USD,USD
+WMX,WMX,United States,Unknown,USD,USD
+WOR,WOR,United States,Industrials,USD,USD
+WRB,WRB,United States,Financials,USD,USD
+WSM,WSM,United States,Consumer Discretionary,USD,USD
+WST,WST,United States,Health Care,USD,USD
+WTW,WTW,United States,Financials,USD,USD
+WU,WU,United States,Financial Services,USD,USD
+WY,WY,United States,Real Estate,USD,USD
+WYNN,WYNN,United States,Consumer Discretionary,USD,USD
+XEL,XEL,United States,Utilities,USD,USD
+XOM,XOM,United States,Energy,USD,USD
+XRAY,XRAY,United States,Healthcare,USD,USD
+XRX,XRX,United States,Industrials,USD,USD
+XYL,XYL,United States,Industrials,USD,USD
+XYZ,XYZ,United States,Financials,USD,USD
+YUM,YUM,United States,Consumer Discretionary,USD,USD
+ZBH,ZBH,United States,Health Care,USD,USD
+ZBRA,ZBRA,United States,Information Technology,USD,USD
+ZION,ZION,United States,Financial Services,USD,USD
+ZTS,ZTS,United States,Health Care,USD,USD
